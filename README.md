@@ -6,7 +6,7 @@ Here's what I've been up to lately.
 - **2020-2023**: BSc Mathematics at [University of Birmingham](https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-sciences/mathematics), achieved first-class (81%).
 
 Here are some things I'm proud of
-- [FIECON Powerups](https://www.linkedin.com/posts/tomnw_at-fiecon-were-using-technology-to-enhance-activity-7336734483787759616-WY3E) - an Excel automation toolkit, saved £40K annually at FIECON
+- [FIECON Powerups](https://www.linkedin.com/posts/tomnw_at-fiecon-were-using-technology-to-enhance-activity-7336734483787759616-WY3E) - an Excel automation toolkit, saved ~£40K annually at FIECON.
 - [Sky Chess](https://tomnwright.itch.io/skychess) - a prototype for a relaxing 3D chess game for console.
 - [University dissertation](https://github.com/wrightom/shallow-XOR) - titled 'Deep Learning and its Applications', derives and implements the back-prop algorithm from first principles.
 
