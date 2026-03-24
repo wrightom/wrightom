@@ -1,4 +1,4 @@
-Hi I'm Tom, welcome to my GitHub.
+Hi I'm Tom, welcome to my GitHub. Connect with me on [LinkedIn](https://www.linkedin.com/in/tomnw/).
 
 Here's what I've been up to lately.
 - **2025-Present**: Software Developer at [Acturis](https://www.acturis.com), market-leading insurance SaaS.
