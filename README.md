@@ -1,9 +1,9 @@
 Hi I'm Tom, welcome to my GitHub.
 
-Here's what I've been up to for lately.
-- 2025-Present: Software Developer at [Acturis](https://www.acturis.com), market-leading insurance SaaS.
-- 2023-2025: Analyst at [FIECON](https://www.fiecon.com), health economics consultancy.
-- 2020-2023: BSc Mathematics at [University of Birmingham](https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-sciences/mathematics), achieved first-class (81%).
+Here's what I've been up to lately.
+- **2025-Present**: Software Developer at [Acturis](https://www.acturis.com), market-leading insurance SaaS.
+- **2023-2025**: Analyst at [FIECON](https://www.fiecon.com), health economics consultancy.
+- **2020-2023**: BSc Mathematics at [University of Birmingham](https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-sciences/mathematics), achieved first-class (81%).
 
 Here are some things I'm proud of
 - [FIECON Powerups](https://www.linkedin.com/posts/tomnw_at-fiecon-were-using-technology-to-enhance-activity-7336734483787759616-WY3E) - an Excel automation toolkit, saved £40K annually at FIECON
